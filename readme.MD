@@ -1,5 +1,5 @@
 # Social network API
-
+*PLEASE NOTE* I am aware that I put the whole repo into a file when i should not have, by the time i thought about it, it was already too late. My apoligies
 ## Overview
 
 Welcome to the Social Media API, a back-end solution for your social network. This application is designed to handle large amounts of unstructured data, making it an ideal choice for a social media startup. It leverages MongoDB as a NoSQL database and utilizes Mongoose, Express, and Moment.js to manage and interact with the data.
